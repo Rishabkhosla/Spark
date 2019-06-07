@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/srikanth/Desktop/buildsbt/src/main/scala/Main.scala:20:13: not found: value foreach[0m
+[0m[[0m[31merror[0m] [0m[0m    println(foreach(println(data)));[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
