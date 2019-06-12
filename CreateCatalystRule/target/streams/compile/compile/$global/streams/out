@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/srikanth/Desktop/userDefinedLogs/src/main/scala/Main.scala:2:25: object catalyst is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.catalyst.plans.logical.LogicalPlan[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/srikanth/Desktop/userDefinedLogs/src/main/scala/Main.scala:6:17: not found: type LogicalPlan[0m
+[0m[[0m[31merror[0m] [0m[0mdef apply(plan: LogicalPlan):Seq[SparkPlan]={[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
